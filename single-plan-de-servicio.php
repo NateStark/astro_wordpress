@@ -212,7 +212,7 @@ for (i = 0; i < acc.length; i++) {
 		<?php do_action('optimize_mikado_before_container_close'); ?>
 	</div>
 	
-
+			<p> Cambios de prueba</p>
 <?php endwhile; ?>
 <?php endif; ?>
 <?php get_footer(); ?>

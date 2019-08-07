@@ -16,5 +16,5 @@ $query->the_post();
 wp_reset_query();
 
  get_footer(); 
-
+ echo "hola mundo";
  ?>

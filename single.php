@@ -56,5 +56,5 @@ get_header();
 		</main><!-- #main -->
 	</section><!-- #primary -->
 
-<?php
+<?php echo "hola mundo";
 get_footer();
